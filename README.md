@@ -1,1 +1,1 @@
-# House-Price-Prediction
+This project aims to leverage machine learning techniques to predict house prices accurately. The insights derived from this project could be beneficial for various stakeholders, including home buyers, real estate developers, and policy-makers, by providing them with a data-driven tool to estimate house prices.
